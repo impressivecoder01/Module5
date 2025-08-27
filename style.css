@@ -114,3 +114,16 @@ header{
 .banner-content{
     max-width: 580px;
 }
+
+.whatIDoTitle{
+    font-weight: 800;
+    font-size: 35px;
+    
+}
+.textSection{
+    text-align: center;
+}
+.whatIDo{
+    max-width: 1140px;
+    margin: 40px auto 20px;
+}
