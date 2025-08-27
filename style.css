@@ -127,3 +127,18 @@ header{
     max-width: 1140px;
     margin: 40px auto 20px;
 }
+.card-whatToDo{
+    margin-top: 50px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 5px;
+}
+.cards-bg{
+        background-color: beige;
+        padding: 19px 15px;
+        border-radius: 8px;
+        box-shadow: 5px 8px 10px black;
+
+}
