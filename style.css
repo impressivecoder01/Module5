@@ -115,7 +115,7 @@ header{
     max-width: 580px;
 }
 
-.whatIDoTitle{
+.whatIDoTitle, .resume-title{
     font-weight: 800;
     font-size: 35px;
     
@@ -130,6 +130,7 @@ header{
 .card-whatToDo{
     margin-top: 50px;
     display: flex;
+    /* flex-wrap: wrap; */
     gap: 20px;
     justify-content: center;
     align-items: center;
@@ -137,8 +138,32 @@ header{
 }
 .cards-bg{
         background-color: beige;
-        padding: 19px 15px;
+        padding: 29px 15px;
         border-radius: 8px;
         box-shadow: 5px 8px 10px black;
 
+}
+
+.resume{
+    max-width: 1140px;
+    margin: 50px auto;
+}
+.resume h2{
+    text-align: center;
+}
+
+.resumetitle1{
+    font-weight: 700;
+    font-size: 30px;
+    color: #474747;
+}
+.resumetitle2{
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+}
+.resume .details{
+    margin: 20px 0;
+    font-size: 16px;
+    color: #474747;
 }
