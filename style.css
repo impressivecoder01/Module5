@@ -167,3 +167,14 @@ header{
     font-size: 16px;
     color: #474747;
 }
+
+.resume-card-container{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+.first-container{
+    /* display: ; */
+}
