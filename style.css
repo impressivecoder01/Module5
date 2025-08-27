@@ -175,6 +175,7 @@ header{
     align-items: center;
 }
 
-.first-container{
+.first-container div{
     /* display: ; */
+    border-bottom: 1px solid black;
 }
